@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Othmane Berhi ! 👽</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&vCenter=true&width=435&lines=!+%D8%B3%D9%84%D8%A7%D9%85;HI+there+!;Salut+!;Hola+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=24F796&center=true&vCenter=true&width=435&lines=!+%D8%B3%D9%84%D8%A7%D9%85;HI+there+!;Salut+!;Hola+!" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">I'm a software engineering student currently in my fifth year, with a passion for coding and technology. Welcome to my GitHub profile!</h3>
 
