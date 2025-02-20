@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=24F796&center=true&vCenter=true&width=435&lines=!+%D8%B3%D9%84%D8%A7%D9%85;HI+there+!;Salut+!;Hola+!" alt="Typing SVG" />
 </p>
-<h3 align="center">I'm a software engineer with a passion for coding and technology. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm a software developement engineer at Amazon AWS & Alithya with a passion for coding and technology. Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmaneberhi&label=Profile%20views&color=0e75b6&style=flat" alt="othmaneberhi" /> </p>
 
